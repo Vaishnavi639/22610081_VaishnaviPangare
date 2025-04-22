@@ -15,4 +15,3 @@ EDA consists of :
 4. finding correlation matrix visualizing it as heatmap
 5. visualizing box plots
 6. creating a folder for reports
-https://github.com/ESE-practical-problems
